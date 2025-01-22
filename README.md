@@ -1,2 +1,2 @@
 # advent-of-code-2024
-yipee
+This ended like it usually does... around the halfway point. But it was fun while it lasted!
